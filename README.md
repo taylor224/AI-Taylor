@@ -16,11 +16,11 @@ Content-Type : application/json
     "messages": [
         {
             "type": "text",
-            "message": "Hello, World!"
+            "text": "Hello, World!"
         },
         {
             "type": "text",
-            "message": "Unfortunately, The Server #137 is dead."
+            "text": "Unfortunately, The Server #137 is dead."
         }
     ]
 }
