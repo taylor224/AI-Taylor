@@ -1,5 +1,5 @@
 # AI-Taylor
-A.I. Taylor Intelligent LINE Bot service Issue Tracker
+A.I. Taylor Intelligent LINE Bot service Document and Issue Tracker
 
 -----
 ## Document
